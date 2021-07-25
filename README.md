@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pixelbuster-reck ( Gururaj Dharani, Product Manager, Reckonsys )
+- 👋 Hi, I’m @pixelbuster-reck ( Gururaj Dharani, Technical Lead, Reckonsys )
 - 👀 I’m Javascript developer
 - 🌱 I’m currently working as a Technical Lead
 - 📫 Email me : gururaj@reckonsys.com, Phone : 8123602026
